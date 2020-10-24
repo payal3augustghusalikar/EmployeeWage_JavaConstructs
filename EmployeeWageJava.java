@@ -18,7 +18,7 @@ public class EmployeeWageJava {
 					empHrs = 8;
 					break;
 				case IS_PART_TIME:
-         		empHrs = 4;
+					empHrs = 4;
 					break;
 				default:
 					empHrs = 0;
